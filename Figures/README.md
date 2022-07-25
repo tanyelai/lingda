@@ -9,7 +9,7 @@ Here you can find the figures that explain the process of the dataset formation 
 
 ### Dataset Creating Process
 
-<img width="1019" alt="image" src="https://user-images.githubusercontent.com/44132720/180719901-ad2c6537-64d1-4def-b8f0-2900b9ce1c6c.png">
+<img width="920" alt="image" src="https://user-images.githubusercontent.com/44132720/180719901-ad2c6537-64d1-4def-b8f0-2900b9ce1c6c.png">
 
 ----
 <br/><br/>
