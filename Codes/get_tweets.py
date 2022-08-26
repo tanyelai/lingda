@@ -63,7 +63,7 @@ if __name__ == '__main__':
     entities = read_texts(args.entities)
     offensives = read_texts(args.offensives)
 
-    queries = get_queries(entites=entities, offesives=offensives)
+    queries = get_queries(entities=entities, offensives=offensives)
 
 
     # Twint config
