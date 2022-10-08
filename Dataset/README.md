@@ -21,7 +21,8 @@ Offensive language identification:
 | 0 (Not Offensive) | 22,589 | 4,436 | 1,402 |
 | 1 (Offensive) | 19,809 | 4,415 | 354 |
 
-### Alternative Link (Huggingface)
+### Alternative Link (Kaggle, Huggingface)
+- https://www.kaggle.com/datasets/toygarr/turkish-offensive-language-detection
 - https://huggingface.co/datasets/Toygar/turkish-offensive-language-detection
  
 ### Citation Information
