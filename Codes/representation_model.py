@@ -69,4 +69,4 @@ def calc_w2v_representations(texts, keyed_vectors_path: str = None, w2v_size: in
 
     vectorize = lambda t: vectorize_sentence(t, word_vectors)
 
-    return np.array(list(map(vectorize)))
+    return np.array(list(map(vectorize, texts)))
