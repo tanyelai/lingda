@@ -9,4 +9,5 @@ In this paper, we propose a simple way to pass borders of traditional text data 
 [Figures](https://github.com/toygarr/lingda/tree/main/Figures) folder contains representation of dataset gathering process and illustration of BERTurk-CNN-BiLSTM model pipeline. <br/>
 
 ### Citation
-Will be provided.
+
+T. Tanyel, B. Alkurdi and S. Ayvaz, "Linguistic-based Data Augmentation Approach for Offensive Language Detection," 2022 7th International Conference on Computer Science and Engineering (UBMK), 2022, pp. 1-6, doi: 10.1109/UBMK55850.2022.9919562.
