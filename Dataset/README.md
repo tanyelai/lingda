@@ -37,3 +37,5 @@ We merged open-source offensive language dataset studies in Turkish to increase 
 - https://github.com/imayda/turkish-hate-speech-dataset-2
 - https://www.kaggle.com/datasets/kbulutozler/5k-turkish-tweets-with-incivil-content
 
+# Word List  
+The words used in queries that contain entities and offensive words can be found under the [wordlist](./wordlist/) folder.
